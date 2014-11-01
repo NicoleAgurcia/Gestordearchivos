@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414861849 source:c:\users\omca\desktop\organizacion de archivos\gestordearchivos\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+
